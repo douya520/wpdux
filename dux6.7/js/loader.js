@@ -45,6 +45,7 @@ tbquire.config({
 		'jquery.cookie' : '//cdn.jsdelivr.net/gh/douya520/wpdux/dux6.7/js/libs/jquery.cookie.min',
 		'jsrender'      : '//cdn.jsdelivr.net/gh/douya520/wpdux/dux6.7/js/libs/jsrender.min',
 		'router'        : '//cdn.jsdelivr.net/gh/douya520/wpdux/dux6.7/js/libs/router.min',
+	        'signpop'       : '//cdn.jsdelivr.net/gh/douya520/wpdux/dux6.7/js/signpop',
 		'lazyload'      : '//cdn.jsdelivr.net/gh/douya520/wpdux/dux6.7/js/libs/lazyload.min',
 		'prettyprint'   : '//cdn.jsdelivr.net/gh/douya520/wpdux/dux6.7/js/libs/prettyprint',
 		'ias'           : '//cdn.jsdelivr.net/gh/douya520/wpdux/dux6.7/js/libs/ias.min',

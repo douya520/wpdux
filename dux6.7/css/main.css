@@ -371,7 +371,8 @@ body{background-color:#f6f6f6;position:relative;	/*margin-top: 79px;*/}
 .article-content ol{list-style: decimal;}
 .article-content li{margin-bottom: 6px;}
 .article-content p{margin-bottom:20px;word-wrap:break-word}
-.article-content pre{word-wrap:break-word;}
+.article-content pre{white-space: pre-wrap;
+    word-wrap: break-word;}
 .article-content table{border-top:solid 1px #ddd;border-left:solid 1px #ddd;width:100%;margin-bottom:20px}
 .article-content table th{background-color:#f9f9f9;text-align:center}
 .article-content table td,.article-content table th{border-bottom:solid 1px #ddd;border-right:solid 1px #ddd;padding:5px 10px;text-align:center}
